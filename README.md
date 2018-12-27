@@ -1,2 +1,2 @@
 # holiday_exercises
-Holiday Exercises
+Holiday Exercises from Trilogy
